@@ -1,4 +1,4 @@
-package com.example.otus12.model;
+package com.example.otus12.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
